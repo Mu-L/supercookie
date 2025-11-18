@@ -315,7 +315,7 @@ The most straightforward solution is to disable the favicon cache completely. As
 
 ## Other
 
-### [🙎‍♂️ About me](https://jonas.strehles.info)
+### 🙎‍♂️ About me
 
 I am a twenty five year old student from 🇩🇪 Germany. I like to work in software design and development and have an interest in the IT security domain.
 
@@ -346,5 +346,6 @@ Liked the project? Just give it a star ⭐ and spread the world!
 * 🇷🇺 [ITSumma on habr.com](https://habr.com/ru/company/itsumma/blog/542734/)
 * 🇷🇺 [securitylab.ru](https://www.securitylab.ru/news/516436.php)
 * <img src="https://youtube.com/favicon.ico" width="20"> [Seytonic on YouTube](https://youtu.be/X7OW5hTt5hY)
+
 
 
